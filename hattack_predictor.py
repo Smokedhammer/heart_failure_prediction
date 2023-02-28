@@ -8,7 +8,6 @@ Created on Mon Feb 27 16:17:01 2023
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import joblib
 import sklearn
 
